@@ -26,6 +26,16 @@ doors.txt and doors2.txt were generated on [Random.org][random]
 You can provide your own files. Just put the chosen door on the first column,
 and the car door on second.
 
+
+## Results
+
+On both files, if you change the door, you have 67% chance of winning.
+
+## Faking results
+
+You can put "1 1", "2 2" or "3 3" on every row, doing that you will prove that
+this theorem is wrong and win a nobel prize... maybe not...
+
 ## References
 
 [Wikipedia][wikipedia]
